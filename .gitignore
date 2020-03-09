@@ -1,0 +1,7 @@
+*.zip
+.DS_Store
+.project
+.vscode
+.target
+.settings
+.classpath
